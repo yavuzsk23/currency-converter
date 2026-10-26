@@ -1,8 +1,8 @@
-English
+# English
 This is C# project. Its purpose is to convert temperatures between Celsius and Fahrenheit
 
-Deutsch
+# Deutsch
 Dies ist ein C#-Projekt. Es soll Temperaturen zwischen Celsius und Fahrenheit umwandeln
 
-Türkçe
+# Türkçe
 Bu  bir C# projesidir. Amacı sıcaklıkları Celsius ve Fahrenheit arasında dönüştürmektir
